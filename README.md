@@ -1,5 +1,7 @@
 ## Hi there 👋
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=L1nkM3tal555&show_icons=true&theme=cobalt"/>
 
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkM3tal555&layout=donut&hide=jupyter%20notebook&langs_count=8"/>
 <!--
 **L1nkM3tal555/L1nkM3tal555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
